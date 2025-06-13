@@ -1,0 +1,4 @@
+Hafta 7 Log:
+
+Grafik çizildi.  
+Haber içeriği webden alındı ve dosyaya yazıldı.
