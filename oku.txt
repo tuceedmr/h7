@@ -1,0 +1,2 @@
+hafta 7
+Bu hafta bir haber sitesinden tarih, başlık ve içerik alıp dosyaya yazmayı öğrendim. Diğer kodda ise noktalardan oluşan bir grafik çizdim, noktaları birleştirip eksenler ve oklar ekledim. Hem web'den veri çekmeyi hem de görsel olarak veri göstermeyi denedim.
